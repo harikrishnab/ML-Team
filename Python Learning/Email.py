@@ -1,10 +1,10 @@
 import smtplib
 
-gmail_user = 'bollahari999@gmail.com'  
-gmail_password = 'Bo11a@999'
+gmail_user = '*********@gmail.com'  
+gmail_password = '***********'
 
-sender = 'bollahari999@gmail.com'
-receivers = ['bollahari999@gmail.com']
+sender = '**********@gmail.com'
+receivers = ['*******@gmail.com']
 
 message = """From: %sender
 Subject: SMTP e-mail test
